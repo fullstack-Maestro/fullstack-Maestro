@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jayxun. I am a .NET Backend Developer
+### Hi there 👋 My name is Jayxun. I am a .NET Software Developer
 
 <!--
 **fullstack-Maestro/fullstack-Maestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
